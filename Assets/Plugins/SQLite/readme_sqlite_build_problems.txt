@@ -1,0 +1,1 @@
+Make sure to use sqlite3.dll 32bits for 32bits build. 64bits also need 64bits dll so make sure they match. 

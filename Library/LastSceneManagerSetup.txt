@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/LoginServer.unity
+  isLoaded: 1
+  isActive: 1
